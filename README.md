@@ -35,8 +35,8 @@ ARIKI je všestranná sada sieťových nástrojov do terminálu:
 ## Inštalácia a spustenie
 
 ```bash
-git clone <tvoj-repo-url>
-cd <priečinok>
+git clone 
+cd 
 
 # voliteľné závislosti
 sudo apt install python3 python3-pip adb
